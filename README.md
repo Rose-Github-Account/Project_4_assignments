@@ -1,8 +1,8 @@
-# Project Assignments & Python Projects
+#  Assignments 4
 
 This repository contains a collection of Python assignments and projects. Each project focuses on building skills in different aspects of Python programming.
 
-## Assignments
+## Assignments 00 TO 05
 
 ### Assignment 00 - Intro to Python
 - [Link to Assignment](https://colab.research.google.com/drive/1nev9MFBQb-oDfUk5R0FaD9j6mMOvoQRk)
@@ -22,12 +22,18 @@ This repository contains a collection of Python assignments and projects. Each p
 ### Assignment 05 - Loops and Control Flow
 - [Link to Assignment](https://colab.research.google.com/drive/1fistM9ZzZJKRnhesGp57gbTMW191EJ60)
 
-### Assignment 01 - Basics
+
+
+
+### Assignment 01
+- Basics
 - [Link to Assignment](https://colab.research.google.com/drive/1qBLHaGnazj-GoyO4eXlb_YEGdWrbB4hv)
+
+
 
 ---
 
-## Python Projects
+## Assignments 1 to 6
 
 ### Project 1 - Mad Libs Python Project
 - [Link to Project](https://colab.research.google.com/drive/1l2-RsMxzQIse7evSVNYdm-Bwcnj2yVi0)
